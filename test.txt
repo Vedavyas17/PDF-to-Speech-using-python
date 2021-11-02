@@ -1,0 +1,19 @@
+A web service allows different systems to talk to each other over the
+internet. The client sends a message and waits for a response from
+the server.The server receives the message, and the web service
+performs an action. Then, a message is sent back to the client. For
+ex: you are in a coffee shop and you want to buy a cup of coffee. But
+You're in a different country, say, Belgium, and don't speak the
+language. How are you going to communicate and get what you want? So,
+you need help from someone who is able to translate what you want and
+to get your coffee. So, you turn to your friend who happens to speak
+both English and French.You're able to communicate to your friend in
+English. So he translates to shopkeeper and gets u tea. In this
+scenario, you are the client sending a message in a language that
+your friend, the web service, can understand.The web service is able
+to communicate with the server and get the task completed. Data is
+transferred between client and server with a common web language,
+like XML. Each application can be written in two completely different
+languages, like .NET or Java, but they can use XML to communicate the
+data they need. There are two main types of web services, SOAP and
+RESTful.
